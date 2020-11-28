@@ -1,1 +1,2 @@
-<a style = "text-decoration:none" href = "https://sooraj-gupta.github.io/typewriterjs">Click</a>
+# Typewriter.js
+### <a href = "https://sooraj-gupta.github.io/typewriterjs">Click Here!</a>
